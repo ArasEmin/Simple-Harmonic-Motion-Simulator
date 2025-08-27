@@ -1,10 +1,6 @@
-https://img.shields.io/badge/Python-3.6%252B-blue?logo=python
-https://img.shields.io/badge/NumPy-1.20%252B-blue?logo=numpy
-https://img.shields.io/badge/Matplotlib-3.3%252B-blue?logo=matplotlib
-https://img.shields.io/badge/License-MIT-green
-
-https://img.shields.io/badge/Open%2520in-GitHub%2520Codespaces-blue?logo=github
-https://zenodo.org/badge/DOI/10.5281/zenodo.123456789.svg
+[![Python](https://img.shields.io/badge/Python-3.6%252B-blue?logo=python)
+[![Numpy](https://img.shields.io/badge/NumPy-1.20%252B-blue?logo=numpy)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3%252B-blue?logo=matplotlib)
 
 Fiziksel sistemlerin simülasyonu için Python tabanlı interaktif bir araç
 

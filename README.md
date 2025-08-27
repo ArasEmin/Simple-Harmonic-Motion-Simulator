@@ -2,9 +2,7 @@
 [![Numpy](https://img.shields.io/badge/NumPy-1.20%252B-blue?logo=numpy)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3%252B-blue?logo=matplotlib)
 
-Fiziksel sistemlerin simülasyonu için Python tabanlı interaktif bir araç
-
-https://via.placeholder.com/800x400.png?text=Harmonic+Motion+Simulation+GIF
+Fiziksel sistemlerin simülasyonu için Python tabanlı interaktif bir araç | An interactive Python-based tool for simulating physical systems
 
 📖 Proje Hakkında
 Basit Harmonik Hareket Simülatörü, fiziksel sistemlerin davranışlarını anlamak ve görselleştirmek için geliştirilmiş Python tabanlı bir simülasyon aracıdır. Bu proje, yay ve kütle sistemlerinin harmonik hareketini hem sayısal hem de analitik yöntemlerle modelleyerek fizik öğrencileri, eğitimciler ve meraklıları için interaktif bir öğrenme deneyimi sunar.

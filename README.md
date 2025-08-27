@@ -76,7 +76,11 @@ simulate_and_plot(oscillator)
 📁 Proje Yapısı
 text
 harmonic-motion-simulator/
+
 ├── main.py                 # Ana uygulama giriş noktası
+
 ├── physics_engine.py       # Fizik motoru ve hesaplamalar
+
 ├── visualization.py        # Görselleştirme fonksiyonları
+
 ├── constants.py            # Sabitler ve yapılandırma

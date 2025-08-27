@@ -2,7 +2,7 @@
 [![Numpy](https://img.shields.io/badge/NumPy-1.20%252B-blue?logo=numpy)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3%252B-blue?logo=matplotlib)
 
-Fiziksel sistemlerin simülasyonu için Python tabanlı interaktif bir araç | An interactive Python-based tool for simulating physical systems
+# Fiziksel sistemlerin simülasyonu için Python tabanlı interaktif bir araç | An interactive Python-based tool for simulating physical systems
 
 📖 Proje Hakkında
 Basit Harmonik Hareket Simülatörü, fiziksel sistemlerin davranışlarını anlamak ve görselleştirmek için geliştirilmiş Python tabanlı bir simülasyon aracıdır. Bu proje, yay ve kütle sistemlerinin harmonik hareketini hem sayısal hem de analitik yöntemlerle modelleyerek fizik öğrencileri, eğitimciler ve meraklıları için interaktif bir öğrenme deneyimi sunar.
@@ -43,14 +43,23 @@ python main.py --realtime
 
 # Özel parametrelerle çalıştırma
 python main.py --mass 2.0 --k 15.0 --time 5
+
 Komut Satırı Seçenekleri
+
 Parametre	Açıklama	Varsayılan Değer
+
 --mass	Kütle (kg)	1.0
+
 --k	Yay sabiti (N/m)	10.0
+
 --x0	Başlangıç konumu (m)	0.5
+
 --v0	Başlangıç hızı (m/s)	0.0
+
 --time	Simülasyon süresi (s)	10
+
 --realtime	Gerçek zamanlı animasyon	False
+
 Programatik Kullanım
 Projeyi kendi Python kodunuzda da kullanabilirsiniz:
 

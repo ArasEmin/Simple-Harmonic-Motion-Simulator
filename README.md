@@ -4,12 +4,10 @@
 
 # Fiziksel sistemlerin simülasyonu için Python tabanlı interaktif bir araç | An interactive Python-based tool for simulating physical systems
 
-📖 Proje Hakkında
-Basit Harmonik Hareket Simülatörü, fiziksel sistemlerin davranışlarını anlamak ve görselleştirmek için geliştirilmiş Python tabanlı bir simülasyon aracıdır. Bu proje, yay ve kütle sistemlerinin harmonik hareketini hem sayısal hem de analitik yöntemlerle modelleyerek fizik öğrencileri, eğitimciler ve meraklıları için interaktif bir öğrenme deneyimi sunar.
+Basit Harmonik Hareket Simülatörü, fiziksel sistemlerin davranışlarını anlamak ve görselleştirmek için geliştirilmiş Python tabanlı bir simülasyon aracıdır.
 
-Proje, klasik mekaniğin temel prensiplerini uygulamalı olarak gösterirken aynı zamanda Python programlama, bilimsel hesaplamalar ve veri görselleştirme tekniklerini bir aray getiriyor.
+Proje, klasik mekaniğin temel prensiplerini uygulamalı olarak gösterirken aynı zamanda Python programlama, bilimsel hesaplamalar ve veri görselleştirme tekniklerini bir araya getiriyor.
 
-✨ Özellikler
 📊 Çift Çözüm Yöntemi: Sayısal ve analitik çözümlerin karşılaştırmalı analizi
 
 🎨 İnteraktif Görselleştirme: Zaman serisi grafikleri ve animasyonlar
